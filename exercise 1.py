@@ -12,4 +12,4 @@ while n != "guess":
    else:
        print("you guessed it!")
        break
-   print()
+   print(“The game is finished”)
